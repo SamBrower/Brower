@@ -1,6 +1,8 @@
 ﻿// Written by Sam Brower
 // 03/20/2023
 
+// 100 lines code to make a calculator for a school project
+
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.Globalization;
